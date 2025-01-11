@@ -1,4 +1,5 @@
 Purpose of the Project:
+
 The project aims to streamline and efficiently manage a library's operations, including tracking books, borrowers, and library branches. It provides a structured way to handle data and ensures accuracy and integrity in record-keeping.
 
 Use Cases:
